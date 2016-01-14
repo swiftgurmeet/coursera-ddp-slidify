@@ -20,6 +20,7 @@ knit        : slidify::knit2slides
 5. The GLM model predicts real valued "risk"
 6. The Random Forest model predicts binary 0/1 outcome
 7. The app takes some time to build models before it becomes interactive
+8. Source at [GitHub](https://github.com/swiftgurmeet/coursera-ddp-project)
 
 --- .class #id 
 
